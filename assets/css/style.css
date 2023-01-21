@@ -3170,6 +3170,10 @@ hr {
     text-align: left;
 }
 
+.align-left{
+    text-align: left;
+}
+
 .heading-line-slider {
     width: 100px;
     transform: translateY(-12px);
